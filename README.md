@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hey there
+
+I'm buildng the future of EdTech @ [Canopy Study](https://canopy.study), where we are creating a platform to *learn anything*.
+
+#### 🧐 Where to find me
+
+- [Here](https://github.com/ethancatzel)
+- [LinkedIn](https://www.linkedin.com/in/ethancatzel/)
+- [Twitter](https://twitter.com/ethancatzel)
+
+
 
 <!--
 **ethancatzel/ethancatzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
