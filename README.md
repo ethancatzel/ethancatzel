@@ -1,7 +1,5 @@
 ### 👋 Hey there
 
-I'm buildng the future of EdTech @ [Canopy Study](https://canopy.study), where we are creating a platform to *learn anything*.
-
 #### 🧐 Where to find me
 
 - [Here](https://github.com/ethancatzel)
