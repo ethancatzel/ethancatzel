@@ -2,7 +2,8 @@
 
 #### 🧐 Where to find me
 
-- [Here](https://github.com/ethancatzel)
+- [Personal Website](https://ethancatzel.com)
+- [GitHub](https://github.com/ethancatzel)
 - [LinkedIn](https://www.linkedin.com/in/ethancatzel/)
 - [Twitter](https://twitter.com/ethancatzel)
 
