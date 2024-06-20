@@ -1,11 +1,4 @@
-### 👋 Hey there
-
-#### 🧐 Where to find me
-
-- [Personal Website](https://ethancatzel.com)
-- [GitHub](https://github.com/ethancatzel)
-- [LinkedIn](https://www.linkedin.com/in/ethancatzel/)
-- [Twitter](https://twitter.com/ethancatzel)
+hi
 
 
 
